@@ -1,4 +1,4 @@
-### Katharina Wolff & Melina Nowak ###
+### Katharina Wolff & Melina Sophie Nowak ###
 
 import argparse
 import pandas as pd
