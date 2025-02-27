@@ -12,4 +12,4 @@ The scripts in this repository are associated with the [_Victoria cruziana_ stud
 
 
 ## Reference
-This repository.
+Nowak M. S.*, Harder B.*, Meckoni S. N.*, Friedhoff R., Wolff K., Pucker B. (2024). Genome sequence and RNA-seq analysis reveal genetic basis of flower coloration in the giant water lily Victoria cruziana. bioRxiv 2024.06.15.599162; doi: [10.1101/2024.06.15.599162](https://doi.org/10.1101/2024.06.15.599162).
